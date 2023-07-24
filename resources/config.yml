@@ -1,0 +1,6 @@
+block: 10564 #Raw Iron Block
+distance: 6
+
+messages:
+  distance_too_hight: "§cElevator Block is too hight !"
+  no_elevator_found: "§cNo Elevator Block found !"

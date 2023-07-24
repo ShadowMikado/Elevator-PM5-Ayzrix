@@ -1,0 +1,5 @@
+name: Elevator-PM5
+author: ShadowMikado
+version: beta-1.0
+api: [5.0.0]
+main: ShadowMikado\Elevator\Main
