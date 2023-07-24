@@ -17,7 +17,6 @@ class ElevatorEvent implements Listener
     {
         $player = $e->getPlayer();
         $world = $player->getWorld();
-        $player->sendMessage($world->getBlock($player->getPosition()->subtract(0, 1, 0))->getTypeId());
 
         $block = Main::$config->get("block");
 
